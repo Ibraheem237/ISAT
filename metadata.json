@@ -1,0 +1,6 @@
+{
+  "name": "ISAT – Digital SAT Question Bank & Prep Platform",
+  "description": "Comprehensive Digital SAT question bank with thousands of Reading, Writing, and Math questions, realistic practice exams, Desmos guide, and formula references.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
